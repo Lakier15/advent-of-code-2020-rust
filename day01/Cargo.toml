@@ -1,0 +1,11 @@
+[package]
+name = "day01"
+version = "0.1.0"
+authors = ["Alessandro Gasbarroni <alex.gasbarroni@gmail.com>"]
+edition = "2018"
+
+[features]
+default = ["part-1"]
+part-1 = []
+
+[dependencies]
